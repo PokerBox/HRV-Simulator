@@ -1,0 +1,33 @@
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/EEGLogger.exe.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/EEGLogger.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/EEGLogger.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/obj/Debug/EEGLogger.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/obj/Debug/EEGLogger.csproj.CopyComplete
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/obj/Debug/EEGLogger.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/EEGLogger/obj/Debug/EEGLogger.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/EEGLogger.exe.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/EEGLogger.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/EEGLogger.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/obj/Debug/EEGLogger.csprojAssemblyReference.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/obj/Debug/EEGLogger.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/obj/Debug/EEGLogger.csproj.CopyComplete
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/obj/Debug/EEGLogger.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/EEGLogger/obj/Debug/EEGLogger.pdb

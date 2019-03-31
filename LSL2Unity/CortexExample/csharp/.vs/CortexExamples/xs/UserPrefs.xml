@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{EF98366A-15F8-47AF-80F9-A2A11CAA7257}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EEGLogger/Program.cs">
+    <Files>
+      <File FileName="CortexAccess/AccessController.cs" Line="1" Column="1" />
+      <File FileName="CortexAccess/App.config" Line="1" Column="1" />
+      <File FileName="CortexAccess/BaseController.cs" Line="1" Column="1" />
+      <File FileName="CortexAccess/CortexClient.cs" Line="1" Column="1" />
+      <File FileName="EEGLogger/Program.cs" Line="12" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EEGLogger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

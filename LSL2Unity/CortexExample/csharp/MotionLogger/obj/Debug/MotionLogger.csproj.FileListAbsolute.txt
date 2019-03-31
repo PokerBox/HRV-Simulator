@@ -1,0 +1,34 @@
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/MotionLogger.exe.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/MotionLogger.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/MotionLogger.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/obj/Debug/MotionLogger.csprojAssemblyReference.cache
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/obj/Debug/MotionLogger.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/obj/Debug/MotionLogger.csproj.CopyComplete
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/obj/Debug/MotionLogger.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/MotionLogger/obj/Debug/MotionLogger.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/MotionLogger.exe.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/MotionLogger.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/MotionLogger.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/obj/Debug/MotionLogger.csprojAssemblyReference.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/obj/Debug/MotionLogger.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/obj/Debug/MotionLogger.csproj.CopyComplete
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/obj/Debug/MotionLogger.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/MotionLogger/obj/Debug/MotionLogger.pdb

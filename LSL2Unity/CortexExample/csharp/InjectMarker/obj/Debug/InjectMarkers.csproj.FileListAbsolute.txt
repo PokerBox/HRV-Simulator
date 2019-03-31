@@ -1,0 +1,32 @@
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/InjectMarker.exe.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/InjectMarker.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/InjectMarker.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/obj/Debug/InjectMarkers.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/obj/Debug/InjectMarkers.csproj.CopyComplete
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/obj/Debug/InjectMarker.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/InjectMarker/obj/Debug/InjectMarker.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/InjectMarker.exe.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/InjectMarker.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/InjectMarker.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/obj/Debug/InjectMarkers.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/obj/Debug/InjectMarkers.csproj.CopyComplete
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/obj/Debug/InjectMarker.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/InjectMarker/obj/Debug/InjectMarker.pdb

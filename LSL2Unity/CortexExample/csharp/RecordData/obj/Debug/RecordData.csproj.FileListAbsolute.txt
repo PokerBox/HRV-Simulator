@@ -1,0 +1,34 @@
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/RecordData.exe.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/RecordData.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/RecordData.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/obj/Debug/RecordData.csprojAssemblyReference.cache
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/obj/Debug/RecordData.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/obj/Debug/RecordData.csproj.CopyComplete
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/obj/Debug/RecordData.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/RecordData/obj/Debug/RecordData.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/RecordData.exe.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/RecordData.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/RecordData.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/obj/Debug/RecordData.csprojAssemblyReference.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/obj/Debug/RecordData.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/obj/Debug/RecordData.csproj.CopyComplete
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/obj/Debug/RecordData.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/RecordData/obj/Debug/RecordData.pdb

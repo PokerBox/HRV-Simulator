@@ -1,0 +1,32 @@
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/FacialExpressionTraining.exe.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/FacialExpressionTraining.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/FacialExpressionTraining.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.csproj.CopyComplete
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.exe
+/Users/lab405/Desktop/cortex-example-master 2/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/FacialExpressionTraining.exe.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/FacialExpressionTraining.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/FacialExpressionTraining.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/CortexAccess.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/Newtonsoft.Json.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/WebSocket4Net.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/SuperSocket.ClientEngine.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/nunit.framework.dll
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/CortexAccess.pdb
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/CortexAccess.dll.config
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/Newtonsoft.Json.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/bin/Debug/nunit.framework.xml
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.csproj.CoreCompileInputs.cache
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.csproj.CopyComplete
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.exe
+/Users/lab405/Desktop/DAQ/CortexExample/csharp/FacialExpressionTraining/obj/Debug/FacialExpressionTraining.pdb
